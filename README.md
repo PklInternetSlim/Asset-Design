@@ -5,4 +5,4 @@
 - Membuat Logo = Selesai
 - Membuat Mockup = Selesai
 - Membuat Banner = Selesai
-- Membuat Maskot = Belum Selesai
+- Membuat Maskot = Selesai
